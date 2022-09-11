@@ -1,0 +1,8 @@
+{
+	"ip":"BoltSmp181.aternos.me:15337",
+	"port": 15337,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 12345
+	"login-cmd":"/login 12345
